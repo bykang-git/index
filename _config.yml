@@ -292,7 +292,7 @@ defaults:
       share: true
   # _中文简介
   - scope:
-      path: "/_pages"
+      path: ""
       type: 中文简介
     values:
       layout: about-Chinese

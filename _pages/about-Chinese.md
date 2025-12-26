@@ -1,6 +1,6 @@
 ---
 permalink: /_pages/
-title: "康兵义"
+title: "康兵义，博士（后），副教授"
 author_profile: true
 redirect_from: 
   - /about-Chinese/

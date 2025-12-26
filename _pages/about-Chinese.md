@@ -3,8 +3,8 @@ permalink: /
 title: "Dr. Bingyi Kang's academic personal websites"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /about-Chinese/
+  - /about-Chinese.html
 ---
 
 About Dr. Bingyi Kang

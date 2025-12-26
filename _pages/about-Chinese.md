@@ -66,23 +66,19 @@ redirect_from:
 
 (3) 2022-09至今 Fuzzy Optimization and Modeling Journal, 编委
 
-(4)2022-05至今 Fuzzy Systems in Frontiers in Artificial Intelligence, 副主编
+(4) 2022-05至今 Fuzzy Systems in Frontiers in Artificial Intelligence, 副主编
 
-(5)2021-1至今 Journal of Computational and Cognitive Engineering, 编委
+(5) 2021-1至今 Journal of Computational and Cognitive Engineering, 编委
 
 (6) 2020-09至2021-01, Sustainability（SCI index）, 客座编辑
 
 
 相关链接
 ======
-Google Scholar
+Google Scholar [网页链接](https://scholar.google.ca/citations?user=VIEDOvoAAAAJ&hl=en)
 
-https://scholar.google.ca/citations?user=VIEDOvoAAAAJ&hl=en
+ResearchGate [网页链接](https://www.researchgate.net/profile/Bingyi-Kang)
 
-ResearchGate
+Top2%Scientists [网页链接](https://topresearcherslist.com/Home/Profile/916988)
 
-https://www.researchgate.net/profile/Bingyi-Kang                  
 
-Top2%Scientists
-
-https://topresearcherslist.com/Home/Profile/916988
